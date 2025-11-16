@@ -1,0 +1,51 @@
+{
+  "apartment_rules": {
+    "general": [
+      "Respect all neighbors and maintain a friendly environment.",
+      "Keep noise levels low, especially during quiet hours."
+    ],
+    "quiet_hours": {
+      "start": "22:00",
+      "end": "07:00",
+      "notes": "Avoid loud music, parties, or heavy movement."
+    },
+    "cleanliness": [
+      "Keep shared areas clean at all times.",
+      "Dispose of trash properly and follow recycling guidelines.",
+      "Do not leave personal items in hallways or common spaces."
+    ],
+    "guests": {
+      "allowed": true,
+      "overnight_limit_days": 3,
+      "rules": [
+        "Inform roommates in advance of overnight guests.",
+        "Guests must follow all apartment rules."
+      ]
+    },
+    "safety": [
+      "Ensure all doors and windows are locked when leaving.",
+      "Report any suspicious activity immediately.",
+      "Do not tamper with smoke detectors or fire safety equipment."
+    ],
+    "utilities": [
+      "Use water and electricity mindfully.",
+      "Report leaks or electrical issues as soon as possible."
+    ],
+    "pets": {
+      "allowed": false,
+      "rules_if_allowed": [
+        "Clean after pets in all areas.",
+        "Ensure pets do not disturb neighbors."
+      ]
+    },
+    "prohibited": [
+      "Smoking inside the apartment.",
+      "Illegal substances or activities.",
+      "Excessive noise or parties without prior agreement."
+    ],
+    "maintenance": [
+      "Notify landlord or building management about any damages.",
+      "Do not make major modifications without approval."
+    ]
+  }
+}
